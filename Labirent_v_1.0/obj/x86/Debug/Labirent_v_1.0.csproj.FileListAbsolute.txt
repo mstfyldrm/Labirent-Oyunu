@@ -1,0 +1,74 @@
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.exe
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.pdb
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form1.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Properties.Resources.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.exe
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.pdb
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form2.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form3.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form4.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form5.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form6.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form10.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form11.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form12.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form13.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form7.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form9.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form8.resources
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Interop.WMPLib.dll
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Interop.WMPLib.dll
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Projeler\Görsel Programlama 1\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.csproj.ResolveComReference.cache
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.csproj.ResolveComReference.cache
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.exe
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.pdb
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.exe
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.pdb
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form1.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form10.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form11.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form12.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form13.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form2.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form3.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form4.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form5.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form6.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form7.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form8.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form9.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Properties.Resources.resources
+C:\Users\YILDRM\Desktop\Hüseyin_Belli_Labirent_Oyunu_013\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.csproj.GenerateResource.Cache
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.csproj.ResolveComReference.cache
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.exe
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.pdb
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.exe
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Labirent_v_1.0.pdb
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form1.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form10.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form11.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form12.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form13.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form2.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form3.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form4.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form5.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form6.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form7.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form8.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Form9.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1._0.Properties.Resources.resources
+C:\Users\YILDRM\Desktop\Labirent_v_1.0\Labirent_v_1.0\obj\x86\Debug\Labirent_v_1.0.csproj.GenerateResource.Cache
